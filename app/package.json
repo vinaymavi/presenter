@@ -1,14 +1,14 @@
 {
   "name": "app",
   "productName": "App",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "license": "MIT",
   "main": "index.js",
   "repository": "user/repo",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Presntor",
+    "email": "vinaymavi@gmail.com",
     "url": ""
   },
   "engines": {
